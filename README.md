@@ -19,6 +19,6 @@ An online monitoring system in which data is feed and it can match the informati
 - firstly you have to download the project zip file
 - you should be having python in your pc.
 - then extract the file and open it with editor/code runner (like - vs code) 
-- run the project and test it's response.
+- run the realtimevideo .py file to start project and test it's response.
 
 ........................................................................................................................................................................................................
